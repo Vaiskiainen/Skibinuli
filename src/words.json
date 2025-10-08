@@ -1,972 +1,837 @@
 [
-  {
-    "word": "aura",
-    "definition": "Yleinen tunnelma, energia tai persoonallisuus.",
-    "length": 4
-  },
-  {
-    "word": "basic",
-    "definition": "Viittaa ihmisiin, jotka suosivat valtavirtatuotteita, trendejä ja musiikkia. Peräisin termistä 'basic bitch'.",
-    "length": 5
-  },
-  {
-    "word": "beige flag",
-    "definition": "Varoituksen merkki, joka ei ole selkeästi positiivinen tai negatiivinen, vaan riippuu yksilön mieltymyksistä tai rajoista.",
-    "length": 10
-  },
-  {
-    "word": "BDE",
-    "definition": "Lyhenne 'big dick energy' — itsevarmuutta ja rentoutta.",
-    "length": 3
-  },
-  {
-    "word": "bestie",
-    "definition": "Lyhenne sanasta 'best friend' (paras ystävä). Käytetään joskus leikkisästi myös ihmisestä, jonka kanssa puhujalla ei ole läheistä suhdetta.",
-    "length": 6
-  },
-  {
-    "word": "bet",
-    "definition": "Kyllä; okei; 'sovittu'.",
-    "length": 3
-  },
-  {
-    "word": "bffr",
-    "definition": "Lyhenne 'Be fucking for real' — tarkoittaa 'ole tosissasi' tai reaktiota johonkin uskomattomaan.",
-    "length": 4
-  },
-  {
-    "word": "big yikes",
-    "definition": "Kuvaa jotain noloa tai cringeä, erityisesti reaktiona loukkaavaan kommenttiin.",
-    "length": 9
-  },
-  {
-    "word": "blud",
-    "definition": "'Kaveri' tai 'bro'. Alkujaan jamaikalaisesta slangista; uskotaan tulevan termistä 'blood brothers'.",
-    "length": 4
-  },
-  {
-    "word": "boujee",
-    "definition": "Ylellinen/aineellinen. Peräisin sanasta 'bourgeoisie'.",
-    "length": 6
-  },
-  {
-    "word": "bop",
-    "definition": "Häpäisevä termi (yleensä naisista), joka vihjaa liialliseen flirttailuun tai promiskuuteen. Sana voi myös tarkoittaa erittäin hyvää kappaletta.",
-    "length": 3
-  },
-  {
-    "word": "brainrot",
-    "definition": "Tila, jossa yhteys todellisuuteen heikkenee hyperstimuloinnin, jatkuvan verkossa olemisen tai merkityksettömien muotisanojen vuoksi.",
-    "length": 8
-  },
-  {
-    "word": "let him cook",
-    "definition": "Ilmaisu, joka kannustaa antamaan jonkun jatkaa tekemistään häiritsemättä — viittaa siihen, että hän on oikealla tiellä tai on tekemässä jotain vaikuttavaa.",
-    "length": 12
-  },
-  {
-    "word": "bing chilling",
-    "definition": "Kiinalainen sana 'jäätelö' (bīngqílín), joka tuli suosituksi John Cenan videon myötä; käytetään myös huudahduksena viitaten Cenaan tai kiinan kieleen.",
-    "length": 13
-  },
-  {
-    "word": "doomscrolling",
-    "definition": "Toistuva negatiivisen tai masentavan verkkomateriaalin selaaminen, joka johtaa henkiseen uupumukseen ja toivottomuuden tunteeseen.",
-    "length": 13
-  },
-  {
-    "word": "bruh",
-    "definition": "Sana, jota käytetään ilmaisemaan hämmennystä, noloutta tai pettymystä.",
-    "length": 4
-  },
-  {
-    "word": "bugging",
-    "definition": "Käyttäytyä oudosti tai luulla, että joku näkee harhoja.",
-    "length": 7
-  },
-  {
-    "word": "bussin'",
-    "definition": "Erittäin hyvä, loistava. Käytetään myös kuvaamaan herkullista ruokaa. Alkujaan afroamerikkalaisesta puhekielestä.",
-    "length": 7
-  },
-  {
-    "word": "bussy",
-    "definition": "Sananmuunnos 'boy' + 'pussy' (slangi vagina). Viittaa miehen peräaukkoon.",
-    "length": 5
-  },
-  {
-    "word": "cap",
-    "definition": "Valehdella.",
-    "length": 3
-  },
-  {
-    "word": "caught in 4K",
-    "definition": "Viittaa siihen, että joku on kiistattomasti jäänyt kiinni tekemästä jotain väärää tai syyllistä, yleensä kameratodisteella (viittaa 4K-tarkkuuteen).",
-    "length": 12
-  },
-  {
-    "word": "clapback",
-    "definition": "Nopea ja naseva vastaus loukkaukseen tai kritiikkiin.",
-    "length": 8
-  },
-  {
-    "word": "cook",
-    "definition": "'Cook' voi tarkoittaa tehdä jotain hyvin tai menestyä. Kun henkilö on 'cooked', hän on vaarassa — fyysisesti, henkisesti tai epäonnistumisen suhteen.",
-    "length": 4
-  },
-  {
-    "word": "crash out",
-    "definition": "Tehdä holtitonta tai jälkikäteen katumuksen aiheuttavaa päätöstä vihan tai järkytyksen vallassa.",
-    "length": 9
-  },
-  {
-    "word": "crush",
-    "definition": "Slangisana henkilöstä, hahmosta tai asiasta, johon tuntee ihastusta, kiintymystä tai rakkautta.",
-    "length": 5
-  },
-  {
-    "word": "dab",
-    "definition": "Tanssiliike, jota käytetään voiton eleenä.",
-    "length": 3
-  },
-  {
-    "word": "dank",
-    "definition": "Erinomainen, laadukas.",
-    "length": 4
-  },
-  {
-    "word": "dead/ded",
-    "definition": "Niin hauskaa tai huvittavaa, että 'kuolee' (kuvainnollisesti naurusta).",
-    "length": 8
-  },
-  {
-    "word": "delusionship",
-    "definition": "Suhde, jossa joku pitää kiinni epärealistisista tai liiaksi idealistisista uskomuksista. Henkilöä kutsutaan 'delulu'ksi.",
-    "length": 12
-  },
-  {
-    "word": "delulu",
-    "definition": "Lyhenne sanasta 'delusional' eli harhainen; käytetään kuvaamaan henkilöä, jolla on epärealistisia tai pakkomielteisiä uskomuksia — yleinen fanikulttuureissa ja K-pop-yhteisöissä.",
-    "length": 6
-  },
-  {
-    "word": "drip",
-    "definition": "Trendikäs, ylellinen muoti.",
-    "length": 4
-  },
-  {
-    "word": "era",
-    "definition": "Ajanjakso, jolla on tiettyjä kiinnostuksen kohteita tai prioriteetteja.",
-    "length": 3
-  },
-  {
-    "word": "face card",
-    "definition": "Viehättävät kasvot; joskus tarkoittaa kasvojen vetovoimaa, joka ei heikkene.",
-    "length": 9
-  },
-  {
-    "word": "failure management",
-    "definition": "Termi, jolla tarkoitetaan sitä, että aikuinen, vanhempi tai opettaja auttaa jotakuta asiassa, jonka tämä jo osaa hyvin — käytetään pilkaten.",
-    "length": 18
-  },
-  {
-    "word": "fire",
-    "definition": "Sana, jolla kuvataan jotain vaikuttavaa, hyvää tai siistiä.",
-    "length": 4
-  },
-  {
-    "word": "fit/fit check",
-    "definition": "Termi, jolla tuodaan esiin asu. 'Fit' on lyhenne sanasta 'outfit'.",
-    "length": 13
-  },
-  {
-    "word": "finna",
-    "definition": "Lyhenne ilmauksesta 'fixing to' — tarkoittaa 'olla tekemäisillään jotain'; juuret etelävaltioiden englannissa.",
-    "length": 5
-  },
-  {
-    "word": "flop",
-    "definition": "Bopin vastakohta.",
-    "length": 4
-  },
-  {
-    "word": "gagged",
-    "definition": "Tyrmistynyt, hämmästynyt tai sanaton.",
-    "length": 6
-  },
-  {
-    "word": "ghost",
-    "definition": "Lopettaa yhteydenpito tai katkaista kommunikaatio jonkun kanssa ilman ennakkoa.",
-    "length": 5
-  },
-  {
-    "word": "girlboss",
-    "definition": "Nainenyrittäjä, joka menestyy miesvaltaisessa liikemaailmassa; voimaantunut nainen.",
-    "length": 8
-  },
-  {
-    "word": "glaze",
-    "definition": "Ylihypeätä, ylistää tai kehua jotakuta niin liioitellusti, että siitä tulee ärsyttävää tai cringeä.",
-    "length": 5
-  },
-  {
-    "word": "glizzy",
-    "definition": "Hot dog -makkara; termi yleistyi 2020-luvulla, mahdollisesti peräisin slangisanasta 'glizzy' (Glock-asetta tarkoittava).",
-    "length": 6
-  },
-  {
-    "word": "glow-up",
-    "definition": "Merkittävä muutos parempaan ulkonäössä, itsevarmuudessa tai tyylissä.",
-    "length": 7
-  },
-  {
-    "word": "GOAT",
-    "definition": "Lyhenne 'greatest of all time' — kaikkien aikojen paras.",
-    "length": 4
-  },
-  {
-    "word": "Gucci",
-    "definition": "Tarkoittaa hyvää, siistiä tai muodikkaan erinomaista — peräisin luksusmerkistä Gucci.",
-    "length": 5
-  },
-  {
-    "word": "hit different",
-    "definition": "Tuntua tai olla parempi jollain erityisellä tavalla.",
-    "length": 12
-  },
-  {
-    "word": "huzz",
-    "definition": "Muunnelma halventavasta sanasta 'hoes', jota käytetään naisten objektivoimiseen, halventamiseen tai vähättelyyn.",
-    "length": 4
-  },
-  {
-    "word": "ick",
-    "definition": "Äkillinen inhon tai vastenmielisyyden tunne henkilöä kohtaan, johon aiemmin oli viehätys.",
-    "length": 3
-  },
-  {
-    "word": "IJBOL",
-    "definition": "Lyhenne 'I just burst out laughing' — 'minä räjähtin naurusta'.",
-    "length": 5
-  },
-  {
-    "word": "I oop",
-    "definition": "Käytetään ilmaisemaan hämmennystä, noloutta tai huvittuneisuutta.",
-    "length": 5
-  },
-  {
-    "word": "iPad kid",
-    "definition": "Halventava termi myöhäiselle Z-sukupolvelle tai alfa-sukupolvelle kuuluvista lapsista, jotka viettävät suurimman osan ajastaan puhelimen tai tabletin ruutua tuijottaen.",
-    "length": 8
-  },
-  {
-    "word": "it's giving",
-    "definition": "Käytetään kuvaamaan pidettyä asennetta tai vivahdetta (esim. 'it's giving boss energy' => 'antaa pomo-vibat').",
-    "length": 11
-  },
-  {
-    "word": "iykyk",
-    "definition": "Lyhenne 'If you know, you know' — 'jos tiedät, tiedät' (sisäpiirivitseihin).",
-    "length": 5
-  },
-  {
-    "word": "jit",
-    "definition": "Nuorempi henkilö; käytetään usein halventavasti viittaamaan kokemattomaan.",
-    "length": 3
-  },
-  {
-    "word": "Karen",
-    "definition": "Halventava termi röyhkeästä, vihaisesta tai oikeutta vaativasta valkoihoisesta naisesta.",
-    "length": 5
-  },
-  {
-    "word": "L",
-    "definition": "Lyhenne 'loss' — tarkoittaa tappioita, epäonnistumista tai jotain negatiivista. Vastakohta 'W' (win).",
-    "length": 1
-  },
-  {
-    "word": "lit",
-    "definition": "Huikea, kiinnostava, hauska tai viihdyttävä.",
-    "length": 3
-  },
-  {
-    "word": "looksmaxxing",
-    "definition": "Yritys (usein pseudotieteellinen) maksimoida fyysinen viehättävyys.",
-    "length": 12
-  },
-  {
-    "word": "lore",
-    "definition": "Taustatarina.",
-    "length": 4
-  },
-  {
-    "word": "main character",
-    "definition": "Henkilö, joka on tai haluaa olla oman elämänsä päähenkilö; usein viittaa ihmiseen, joka hakee huomiota.",
-    "length": 13
-  },
-  {
-    "word": "mew",
-    "definition": "Pseudotieteellinen menetelmä leukalinjan 'muokkaamiseen' painamalla kieltä palatetta vasten.",
-    "length": 3
-  },
-  {
-    "word": "mid",
-    "definition": "Keskinkertainen tai ei erikoinen; käytetään joskus loukkaavasti.",
-    "length": 3
-  },
-  {
-    "word": "mog",
-    "definition": "Näyttää selvästi houkuttelevammalta kuin joku toinen, saaden tämän vaikuttamaan heikommalta.",
-    "length": 3
-  },
-  {
-    "word": "moot/moots",
-    "definition": "Lyhenne sanoista 'mutuals' eli molemminpuoliset seuraajat.",
-    "length": 10
-  },
-  {
-    "word": "Netflix and chill",
-    "definition": "Katsoa Netflixiä seurustelu-/romanttisen mahdollisuuden kanssa, usein implikoiden seksuaalista kanssakäymistä.",
-    "length": 16
-  },
-  {
-    "word": "nyaa",
-    "definition": "Kissan ääni (nyan), usein käytetty söpöyttä herättävissä yhteyksissä. Peräisin japanilaisesta onomatopoeiasta.",
-    "length": 4
-  },
-  {
-    "word": "no cap",
-    "definition": "'Totuus'; 'en valehtele'.",
-    "length": 6
-  },
-  {
-    "word": "OK boomer",
-    "definition": "Halventava toteamus baby boomer -sukupolvea kohtaan; käytetään hylkäämään tai pilkkaamaan heidän oletettuja, vanhanaikaisia asenteitaan.",
-    "length": 9
-  },
-  {
-    "word": "oof",
-    "definition": "Käytetään ilmaisemaan epämukavuutta, yllättyneisyyttä, pettymyksen tunnetta tai myötätuntoa toisen kipua kohtaan.",
-    "length": 3
-  },
-  {
-    "word": "oomf",
-    "definition": "Lyhenne 'One of My Followers' — yksi seuraajistani.",
-    "length": 4
-  },
-  {
-    "word": "red pill",
-    "definition": "Metafora valveutumiselle karuihin tai piilotettuihin totuuksiin yhteiskunnasta—lainattu The Matrix -elokuvasta. Käytetään usein valtavirran narratiivin hylkäämisestä puhuttaessa.",
-    "length": 8
-  },
-  {
-    "word": "blue pill",
-    "definition": "Edustaa valintaa pysyä mukavassa tietämättömyydessä ja jatkaa totuuden kieltämistä.",
-    "length": 9
-  },
-  {
-    "word": "black pill",
-    "definition": "Kuvaa nihilististä, syvästi pessimististä maailmankuvaa, jossa muutoksen katsotaan olevan mahdotonta ja joka usein johtaa fatalismiin.",
-    "length": 10
-  },
-  {
-    "word": "opp",
-    "definition": "Lyhenne sanoista 'opposition' tai 'opponents' — tarkoittaa kilpailijoita tai vihollisia.",
-    "length": 3
-  },
-  {
-    "word": "out of pocket",
-    "definition": "Olla järjetön, villi tai äärimmäinen — joskus jopa liiallisuuden rajalla.",
-    "length": 13
-  },
-  {
-    "word": "owned",
-    "definition": "Käytetään viittaamaan tappioon videopelissä tai vastustajan täydelliseen päihittämiseen.",
-    "length": 5
-  },
-  {
-    "word": "periodt",
-    "definition": "Huudahdus, jolla korostetaan, että edellinen väite on lopullinen eikä siitä ole enempää sanottavaa; vastaava kuin 'piste'.",
-    "length": 7
-  },
-  {
-    "word": "pick-me",
-    "definition": "Henkilö, joka hakee hyväksyntää erottumalla — usein alentamalla muita omassa sukupuolessaan tai ryhmässään saadakseen huomiota tai suosiota.",
-    "length": 7
-  },
-  {
-    "word": "pookie",
-    "definition": "Söpö lempinimi läheiselle ystävälle tai rakkaalle. Juontaa juurensa saksankielisestä hellittelytermistä 1900-luvulta. Käytetään myös lemmikkinimenä.",
-    "length": 6
-  },
-  {
-    "word": "queen",
-    "definition": "Henkilö (yleensä nainen), jota pidetään vaikuttavana tai ylistettävänä.",
-    "length": 5
-  },
-  {
-    "word": "ratio",
-    "definition": "Tilanne, jossa julkaisu (esim. Twitterissä) saa enemmän vastauksia kuin jakoja ja tykkäyksiä yhteensä; voi myös tarkoittaa, että vastaus saa enemmän suosiota kuin alkuperäinen postaus.",
-    "length": 5
-  },
-  {
-    "word": "red flag",
-    "definition": "Varoitusmerkki suhteessa esiintyvistä käytöksistä tai piirteistä, jotka voivat olla haitallisia tai toksisia.",
-    "length": 8
-  },
-  {
-    "word": "rizz",
-    "definition": "Henkilön viehätysvoima tai flirttailutaidot — peräisin sanasta 'charisma'.",
-    "length": 4
-  },
-  {
-    "word": "Roman Empire",
-    "definition": "Sattumanvarainen tapahtuma, henkilö tai asia, joka kiehtoo niin paljon, että siitä ajatellaan usein.",
-    "length": 12
-  },
-  {
-    "word": "salty",
-    "definition": "Kuvaa henkilöä, joka käyttäytyy katkerasti, ärtyneesti tai loukkaantuneesti.",
-    "length": 5
-  },
-  {
-    "word": "secure the bag",
-    "definition": "Tehdä töitä tavoitteiden saavuttamiseksi; usein viittaa rahan ansaitsemiseen.",
-    "length": 14
-  },
-  {
-    "word": "sheesh",
-    "definition": "Käytetään kehumaan jotakuta, kun hän tekee jotain hyvää. Vokaaleja venytetään (esim. 'sheeesh').",
-    "length": 6
-  },
-  {
-    "word": "shook",
-    "definition": "Olla järkyttynyt, hämmentynyt tai huolestunut.",
-    "length": 5
-  },
-  {
-    "word": "simp",
-    "definition": "Ihannointi tai liiallinen mielistely pyrkimyksenä saada seksuaalista suhdetta; 'simp' kuvaa henkilöä, joka tekee liikaa toisen vuoksi.",
-    "length": 4
-  },
-  {
-    "word": "situationship",
-    "definition": "Epämääräinen romanttinen suhde, jossa osapuolilla on tunteita toisiaan kohtaan, mutta suhdetta ei määritellä — välimuoto seurustelun ja ei-seurustelun välillä.",
-    "length": 13
-  },
-  {
-    "word": "sksksk",
-    "definition": "Käytetään ilmaisemaan iloa/naurua; eräänlainen näppäimistön möyhötys.",
-    "length": 6
-  },
-  {
-    "word": "slaps",
-    "definition": "Viittaa johonkin, joka koetaan hyväksi — erityisesti musiikista puhuttaessa.",
-    "length": 5
-  },
-  {
-    "word": "slay",
-    "definition": "Tehdä jotain erinomaisesti.",
-    "length": 4
-  },
-  {
-    "word": "snatched",
-    "definition": "Upea, viehättävä tai moitteettomasti stailattu. Käytetään joskus kuvaamaan kapeaa vyötäröä.",
-    "length": 8
-  },
-  {
-    "word": "stan",
-    "definition": "Tukea jotain äärimmäisellä tasolla; erityisesti ylenmääräinen tai pakkomielteinen julkisuuden henkilöiden ihailu.",
-    "length": 4
-  },
-  {
-    "word": "sus",
-    "definition": "Lyhenne sanoista 'suspect' tai 'suspicious' — epäilyttävä.",
-    "length": 3
-  },
-  {
-    "word": "sussy baka",
-    "definition": "Yhdistelmä sanoista 'sus' ja japaninkielisestä 'baka' ('hölmö').",
-    "length": 10
-  },
-  {
-    "word": "skill issue",
-    "definition": "Viittaa tilanteeseen, jossa henkilön taitamattomuus tai osaamisen puute nähdään syyksi epäonnistumiseen tai vaikeuteen tehtävän suorittamisessa.",
-    "length": 11
-  },
-  {
-    "word": "tea",
-    "definition": "Salaiset tiedot tai juorut. Juontaa juurensa 1990-luvun mustasta drag-kulttuurista.",
-    "length": 3
-  },
-  {
-    "word": "touch grass",
-    "definition": "Tapa sanoa jollekin 'menkää ulos', yleensä silloin kun henkilö on oletettavasti viettänyt liikaa aikaa verkossa.",
-    "length": 11
-  },
-  {
-    "word": "ts",
-    "definition": "Lyhyempi tapa sanoa 'this' tai 'this shit'.",
-    "length": 2
-  },
-  {
-    "word": "tweaking",
-    "definition": "Käyttäytyä oudosti tai luulla, että joku näkee harhoja.",
-    "length": 8
-  },
-  {
-    "word": "unalive",
-    "definition": "Eufemismi sanoille kuten 'tappaa' tai muihin kuolemaan liittyviin termeihin, usein itsemurhan kontekstissa.",
-    "length": 7
-  },
-  {
-    "word": "understood the assignment",
-    "definition": "Ymmärtää tehtävän tarkoitus; tehdä jotain hyvin.",
-    "length": 26
-  },
-  {
-    "word": "uwu",
-    "definition": "Käytetään ilmaisemaan onnellisuutta tai halua näyttää söpöltä; käytännössä emoticon/ilmaisu.",
-    "length": 3
-  },
-  {
-    "word": "valid",
-    "definition": "Sosiaalisesti hyväksyttävä. Nousi suosioon Tumblrin (ja myöhemmin TikTokin) keskusteluissa.",
-    "length": 5
-  },
-  {
-    "word": "vibe check",
-    "definition": "Tarkistaa jonkun persoonallisuus tai asenne.",
-    "length": 10
-  },
-  {
-    "word": "VSCO girl",
-    "definition": "Stereotypinen valkoinen tyttö, joka ottaa trendikkäitä ja 'basic' -tyylisiä kuvia itsestään muokattavaksi ja julkaistavaksi verkossa.",
-    "length": 9
-  },
-  {
-    "word": "W",
-    "definition": "Lyhenne 'win' — tarkoittaa menestystä, voittoa tai jotain positiivista. Vastakohta 'L'.",
-    "length": 1
-  },
-  {
-    "word": "wig",
-    "definition": "Tehdä jotain niin hyvin, että 'peruukki lentää' — kuvaannollinen ilmaus; eri asia kuin 'wig out'.",
-    "length": 3
-  },
-  {
-    "word": "who is this diva?",
-    "definition": "Kiitollinen retorinen kysymys, jolla kehutaan ihmisiä, jotka ilmentävät diva-tyyppisiä ominaisuuksia kuten rohkeutta, tyyliä ja itsevarmuutta.",
-    "length": 16
-  },
-  {
-    "word": "yap",
-    "definition": "Puhua liikaa, erityisesti ilman merkityksellistä sisältöä.",
-    "length": 3
-  },
-  {
-    "word": "yeet",
-    "definition": "Heittää jotain voimalla huolimattomasti; käytetään myös yleisenä innostuksen huudahduksena.",
-    "length": 4
-  },
-  {
-    "word": "skibidi",
-    "definition": "Viittaus viraalimusiikkiin 'Skibidi Dop Dop Yes Yes' (Little Big) ja siihen liittyviin hassuihin tanssiliikkeisiin.",
-    "length": 7
-  },
-  {
-    "word": "gyatt",
-    "definition": "Slangisana, joka juontuu 'goddamn' -sanasta; käytetään ihailun tai yllätyksen ilmaisemiseen, usein kommentoimaan jonkun takapuolta.",
-    "length": 5
-  },
-  {
-    "word": "cheugy",
-    "definition": "Kuvaa jotain vanhentunutta tai liian yritysmäisesti trendikästä — usein kohdistetaan milleniaalien estetiikkaan.",
-    "length": 6
-  },
-  {
-    "word": "only in ohio",
-    "definition": "Meemi, joka vihjaa, että outoja tai kummallisia tapahtumia tapahtuisi vain Ohiossa.",
-    "length": 12
-  },
-  {
-    "word": "duke dennis",
-    "definition": "Suosittu YouTube- ja Twitch-sisällöntuottaja, tunnettu pelaamisestaan — erityisesti NBA 2K -sisällöstä.",
-    "length": 11
-  },
-  {
-    "word": "did you pray today",
-    "definition": "Meemilause, joka tuli suosituksi; käytetään usein humoristisesti kysyessä toisen vointia tai käytöstä.",
-    "length": 17
-  },
-  {
-    "word": "livvy dunne",
-    "definition": "Tunnettu voimistelija ja some-vaikuttaja, tunnettu TikTok- ja Instagram-läsnäolostaan.",
-    "length": 11
-  },
-  {
-    "word": "rizzing up",
-    "definition": "Toimenpide, jossa käytetään viehätysvoimaa tai karismaa vetääkseen romanttista kiinnostusta.",
-    "length": 9
-  },
-  {
-    "word": "baby gronk",
-    "definition": "Viittaa nuoreen jalkapallolupaukseen; käytetään myös kuvaannollisesti henkilöstä, jolla on suuri potentiaali.",
-    "length": 10
-  },
-  {
-    "word": "sussy imposter",
-    "definition": "Fraasi pelistä Among Us, viittaa epäilyttävään pelaajaan, joka saattaa olla huijari.",
-    "length": 14
-  },
-  {
-    "word": "pibby glitch",
-    "definition": "Viittaus animaatiosarjaan 'Come and Learn with Pibby!', jossa hahmot kärsivät glitchejä muistuttavasta korruptiosta.",
-    "length": 12
-  },
-  {
-    "word": "in real life",
-    "definition": "Usein lyhennettynä IRL — viittaa tosielämässä tapahtuvaan, ei verkossa.",
-    "length": 11
-  },
-  {
-    "word": "sigma male",
-    "definition": "Termi 'manosphere'-yhteisöistä — yksinäinen 'lone wolf' -tyyppi, joka on menestynyt mutta ei noudata perinteisiä sosiaalisia hierarkioita.",
-    "length": 10
-  },
-  {
-    "word": "beta male",
-    "definition": "Termi miesstä, jota pidetään passiivisena, yhteistyökykyisenä ja vähemmän dominoivana; usein liitetään herkkyys ja luotettavuus.",
-    "length": 9
-  },
-  {
-    "word": "alpha male",
-    "definition": "Termi dominoivasta, määrätietoisesta miehestä, joka nähdään johtajana tai auktoriteettina.",
-    "length": 10
-  },
-  {
-    "word": "omega male",
-    "definition": "Termi miehestä, joka on sosiaalisen hierarkian reunalla; usein alpha-miehen vastakohta.",
-    "length": 10
-  },
-  {
-    "word": "grindset",
-    "definition": "Ajattelutapa, joka korostaa armotonta työntekoa ja 'hustlausta' menestyksen saavuttamiseksi.",
-    "length": 8
-  },
-  {
-    "word": "andrew tate",
-    "definition": "Kiistanalainen internet-persoonallisuus, tunnettu näkemyksistään maskuliinisuudesta ja menestyksestä; usein kritisoitu toksisen käytöksen edistämisestä.",
-    "length": 11
-  },
-  {
-    "word": "goon cave",
-    "definition": "Tila, joka on omistettu 'gooning'-toiminnalle — pitkään kestäneelle kiihottumisen tilalle.",
-    "length": 9
-  },
-  {
-    "word": "freddy fazbear",
-    "definition": "Pääanimatroninen hahmo kauhupelisarjasta Five Nights at Freddy's.",
-    "length": 14
-  },
-  {
-    "word": "colleen ballinger",
-    "definition": "YouTube-tähti ja koomikko, tunnettu hahmostaan Miranda Sings.",
-    "length": 17
-  },
-  {
-    "word": "smurf cat",
-    "definition": "Lempeä, fiktiivinen hahmo, joka yhdistää Smurffin ja kissan piirteitä — käytetään usein meemeissä.",
-    "length": 9
-  },
-  {
-    "word": "strawberry elephant",
-    "definition": "Hassu fiktiivinen hahmo/meemi, joka yhdistää mansikan ja norsun.",
-    "length": 19
-  },
-  {
-    "word": "blud",
-    "definition": "Slangisana 'blood' — brittiläisessä slangissa usein tarkoittaa kaveria tai läheistä tuttavaa.",
-    "length": 4
-  },
-  {
-    "word": "dawg",
-    "definition": "Slangisana 'dog' — usein viittaa ystävään tai kaveriin.",
-    "length": 4
-  },
-  {
-    "word": "shmlawg",
-    "definition": "Muunnelma sanasta 'dawg', käytetään samankaltaisesti ystävästä tai läheisestä tuttavasta.",
-    "length": 7
-  },
-  {
-    "word": "ishowspeed",
-    "definition": "Suosittu YouTube- ja striimaaja, tunnettu energisestä ja toisinaan kiistanalaisesta sisällöstään.",
-    "length": 10
-  },
-  {
-    "word": "a whole bunch of turbulence",
-    "definition": "Meemilause, joka viittaa odottamattomiin häiriöihin tai kaaokseen.",
-    "length": 27
-  },
-  {
-    "word": "ambatukam",
-    "definition": "Viraalimeemilause, joka leikkii äänteellisesti harhaanjohtavalla kielellä; käytetään usein humoristisesti.",
-    "length": 9
-  },
-  {
-    "word": "bro really thinks he's carti",
-    "definition": "Lause, jota käytetään pilkkaamaan henkilöä, joka pyrkii matkima rapperi Playboi Cartin tyyliä tai persoonaa.",
-    "length": 28
-  },
-  {
-    "word": "literally hitting the griddy",
-    "definition": "Viittaa Griddy-tanssin esittämiseen, joka tuli suosituksi NFL:ssä ja somessa.",
-    "length": 27
-  },
-  {
-    "word": "the ocky way",
-    "definition": "TikTok-käsite, joka tarkoittaa ruokatilausten räätälöimistä omaperäisellä tai pramealla tavalla — termi sai alkunsa New Yorkin lähikaupan työntekijältä.",
-    "length": 12
-  },
-  {
-    "word": "kai cenat",
-    "definition": "Tunnettu YouTube- ja Twitch-striimaaja, tunnettu energisestä persoonastaan ja humoristisesta sisällöstään.",
-    "length": 9
-  },
-  {
-    "word": "fanum tax",
-    "definition": "Leikkisä viittaus Kai Cenat -yhteisössä, jossa striimaaja ärsyttää muita ottamalla osan heidän ruoastaan.",
-    "length": 9
-  },
-  {
-    "word": "garten of banban",
-    "definition": "Viittaus indie-kauhupeliin, joka nousi suosioon omaperäisen ja kammottavan suunnittelunsa vuoksi.",
-    "length": 16
-  },
-  {
-    "word": "no edging in class",
-    "definition": "Humoristinen tai pilkkaava lause, joka viittaa itsehillinnän harjoittamiseen — käytetty irrotettuna alkuperäisestä koulukontekstistaan.",
-    "length": 17
-  },
-  {
-    "word": "not the mosquito again",
-    "definition": "Meemilause, joka ilmaisee turhautumista tai epäuskoa uudelleen toistuvaa haittaa kohtaan.",
-    "length": 22
-  },
-  {
-    "word": "bussing",
-    "definition": "Slangia, joka tarkoittaa, että jokin on todella hyvää tai herkullista — usein ruokaa kuvattaessa.",
-    "length": 7
-  },
-  {
-    "word": "axel in harlem",
-    "definition": "Viittaa meemiin, joka perustuu tiettyyn animaatiokliippiin, jota parodioitiin laajasti.",
-    "length": 14
-  },
-  {
-    "word": "whopper whopper whopper whopper",
-    "definition": "Tarttuva jingle Burger Kingin mainoksesta, joka muuttui meemiksi.",
-    "length": 32
-  },
-  {
-    "word": "1 2 buckle my shoe",
-    "definition": "Lastenloru, joka muuttui meemi-ilmiöksi; käytetään usein humoristisissa yhteyksissä.",
-    "length": 19
-  },
-  {
-    "word": "goofy ahh",
-    "definition": "Ilmaisu, jolla kuvataan jotain tai jotakuta typeräksi tai naurettavaksi.",
-    "length": 9
-  },
-  {
-    "word": "aiden ross",
-    "definition": "Suosittu Twitch-striimaaja, tunnettu pelaamisestaan ja reaktiovideoistaan; usein osallisena kiistoissa.",
-    "length": 10
-  },
-  {
-    "word": "sin city",
-    "definition": "Usein viittaa Las Vegasiin tai sitä ympäröivään estetiiikkaan ja elämäntapaan; käytetään myös meemeissä.",
-    "length": 8
-  },
-  {
-    "word": "monday left me broken",
-    "definition": "Lause TikTok-trendistä tai laulun sanoista, joka ilmaisee maanantain aiheuttamaa alakuloa.",
-    "length": 21
-  },
-  {
-    "word": "quirked up white boy",
-    "definition": "Meemilause, joka kuvaa nuorta valkoista miestä odottamattomalla tai omituisella kyvyllä; usein jatkuu lauseella 'busting it down sexual style'.",
-    "length": 20
-  },
-  {
-    "word": "busting it down style",
-    "definition": "Osa meemilauseketta, joka vihjaa provosoivaan tanssimiseen.",
-    "length": 21
-  },
-  {
-    "word": "goated with the sauce",
-    "definition": "Slangia henkilölle, joka on poikkeuksellisen taitava tai vaikuttava; 'goat' = 'greatest of all time'.",
-    "length": 22
-  },
-  {
-    "word": "john pork",
-    "definition": "Fiktiivinen hahmo, jota usein kuvataan sika-ihmisen hybridinä; käytetty eri meemeissä.",
-    "length": 9
-  },
-  {
-    "word": "grimace shake",
-    "definition": "Viittaa McDonald'sin kampanjan 'Grimace Shake' -nimiseen pätkäjuomaan; usein meemeissä.",
-    "length": 13
-  },
-  {
-    "word": "kiki do you love me",
-    "definition": "Säe Drake -kappaleesta 'In My Feelings', joka oli osa viraalista tanssihaastetta.",
-    "length": 19
-  },
-  {
-    "word": "womp womp",
-    "definition": "Käytetään ilmaisemaan leikillistä pettymyksen tunnetta, usein humoristisesti.",
-    "length": 11
-  },
-  {
-    "word": "hawk tuah",
-    "definition": "Viraali slangifraasi, joka matkii sylkemisen ääntä; nousi suosioon TikTok-meemin kautta rohkeana ja humoristisena esityksenä.",
-    "length": 9
-  },
-  {
-    "word": "diddy party",
-    "definition": "Viittaa Sean 'Diddy' Combsin ylellisiin ja eksklusiivisiin juhliin; käytetään vihjaamaan korkealuokkaista tunnelmaa tai sosiaalista kerskailua.",
-    "length": 11
-  },
-  {
-    "word": "hizru boy",
-    "definition": "Viraalinen slangitermi, joka viittaa tyypillisesti tyylikkääseen tai salaperäiseen kaveriin, jolla on some-vaikutusvaltaa tai niche-vetovoimaa; alkuperä ja käyttö vaihtelevat yhteisöittäin.",
-    "length": 9
-  },
-  {
-    "word": "pegging",
-    "definition": "Seksuaalinen käytäntö, jossa nainen penetroi miestä anaalisesti straponilla; usein mainittu internet-keskusteluissa ja meemeissä.",
-    "length": 7
-  },
-  {
-    "word": "fine shyt",
-    "definition": "Slang ilmaisu henkilöstä, joka näyttää erittäin houkuttelevalta; käytetään usein kuvaamaan upeita ulkonäköjä tai asuja.",
-    "length": 9
-  },
-  {
-    "word": "shake your gyatt for rizzler",
-    "definition": "Humoristinen, liioiteltu meemilause, joka yhdistää 'gyatt' (kurvit) ja 'rizzler' (viehättäjä) — viittaa tanssimiseen vaikutuksen tekemiseksi.",
-    "length": 28
-  },
-  {
-    "word": "you thought you ate",
-    "definition": "Sarkastinen vastaus henkilölle, joka luulee tehneensä todella vahvan pointin tai vitsin — tarkoittaa, ettei se oikeasti ollut niin hyvä.",
-    "length": 19
-  },
-  {
-    "word": "wifie",
-    "definition": "Söpö tai hellivä slangitermi 'vaimo' tai henkilö, jota pidetään vaimo-/tyttöystävämateriaalina.",
-    "length": 5
-  },
-  {
-    "word": "cutie",
-    "definition": "Hellivä termi kuvaamaan jotakuta söpöä tai viehättävää.",
-    "length": 5
-  },
-  {
-    "word": "object",
-    "definition": "Käytetään meemeissä viittaamaan elottomiin tai ei-toivottuihin asioihin, usein humoristisessa ja dehumanisoivassa sävyssä.",
-    "length": 6
-  },
-  {
-    "word": "get out",
-    "definition": "Reaktiolauselma, jota käytetään torjumaan jotain järkyttävää, cringeä tai odottamatonta; liittyy myös kauhuelokuvan nimeen.",
-    "length": 7
-  },
-  {
-    "word": "dishwasher",
-    "definition": "Käytetään halventavasti vanhanaikaisissa tai seksistisissä meemeissä viittaamaan naisiin, usein satiirisessa tarkoituksessa; yleisesti ei suositeltavaa.",
-    "length": 10
-  },
-  {
-    "word": "abduction material",
-    "definition": "Meemilause henkilölle, joka näyttää liian viattomalta tai tietämättömältä — ikään kuin hänet voisi 'nappailla' elokuvassa.",
-    "length": 18
-  },
-  {
-    "word": "preorder",
-    "definition": "Alunperin käytettiin varauksista ennen julkaisua; meeminä tarkoittaa nykyään puolison kohtelua liian hellästi liian aikaisin.",
-    "length": 8
-  },
-  {
-    "word": "a hoe final form is religion woman",
-    "definition": "Meemilause, joka vihjaa, että henkilö, joka oli aiemmin promiskuöösi, lopulta muuttuu syvästi uskonnolliseksi — usein humoristisesti tai sarkastisesti käytetty.",
-    "length": 34
-  },
-  {
-    "word": "expired",
-    "definition": "Kuvaa henkilöä, joka ei ole enää ajankohtainen, viehättävä tai 'omassa huipussaan'; käytetään usein kovakouraisesti meemislangissa.",
-    "length": 7
-  },
-  {
-    "word": "chill guy",
-    "definition": "Rentoa, huolettomasti suhtautuva miesarkkityyppi, joka ei sekaannu draamaan; käytetään joskus ironisesti.",
-    "length": 9
-  },
-  {
-    "word": "quandale dingle",
-    "definition": "Fiktiivinen meemihahmo, jolla on vääristynyt kasvot ja humoristinen taustatarina; suosittu absurdissa meemikulttuurissa.",
-    "length": 15
-  },
-  {
-    "word": "shawties",
-    "definition": "Slangia viehättävistä naisista; peräisin sanasta 'shorty'.",
-    "length": 8
-  },
-  {
-    "word": "thot",
-    "definition": "Lyhenne 'That Hoe Over There' — halventava slangisana naisesta, jota pidetään promiskuöösi",
-    "length": 4
-  },
-  {
-    "word": "beaters",
-    "definition": "Viittaa maiottimiin (tank top), usein kutsuttu 'wife beater' — kiistanalainen slangitermi, jota käytetään katumuodissa tai meemeissä.",
-    "length": 7
-  },
-  {
-    "word": "double homicide",
-    "definition": "Meemilause, jolla kuvaillaan armotonta verbaalista nöyryytystä tai kovaa loukkausta; peräisin viraalista tosi-tv-pätkästä.",
-    "length": 15
-  },
-  {
-    "word": "prime",
-    "definition": "Käytetään kuvaamaan henkilöä huippuvireessä ulkonäöllisesti tai vaikutusvallaltaan; usein yhteydessä viehätysvoimaan tai menestykseen.",
-    "length": 5
-  },
-  {
-    "word": "comeback",
-    "definition": "Paluu merkitykseen tai parannus tilanteeseen sen jälkeen, kun on joutunut hyljeksityksi tai 'cancelled' — käytetään usein julkkisten tai exien yhteydessä.",
-    "length": 8
-  },
-  {
-    "word": "mother",
-    "definition": "Käytetään stan- ja meemikulttuurissa viittaamaan ikonisiin naisiin (esim. Beyoncé, Lady Gaga) inspiraation lähteenä.",
-    "length": 6
-  },
-  {
-    "word": "girl dinner",
-    "definition": "TikTok-trendi, jossa naiset esittelevät minimalistisia, satunnaisia napostelulautasia täysinä aterioina; humoristinen ja samastuttava sisältö.",
-    "length": 11
-  },
-  {
-    "word": "hot girl walk",
-    "definition": "Trendi, jossa naiset tekevät voimaannuttavia kävelyitä kuunnellen musiikkia tai vahvistavia lauseita — edistää hyvinvointia ja itsevarmuutta.",
-    "length": 13
-  },
-  {
-    "word": "pick me girl",
-    "definition": "Nainen, joka hakee miesten hyväksyntää alentamalla muita naisia; usein negatiivinen sosiaalisen median termi.",
-    "length": 12
-  }
+{
+"word": "aura",
+"definition": "Yleinen tunnelma, energia tai persoonallisuus.",
+"length": 4
+},
+{
+"word": "basic",
+"definition": "Viittaa ihmisiin, jotka suosivat valtavirtatuotteita, trendejä ja musiikkia. Peräisin termistä 'basic bitch'.",
+"length": 5
+},
+{
+"word": "beige flag",
+"definition": "Varoituksen merkki, joka ei ole selkeästi positiivinen tai negatiivinen, vaan riippuu yksilön mieltymyksistä tai rajoista.",
+"length": 10
+},
+{
+"word": "bestie",
+"definition": "Lyhenne sanasta 'best friend' (paras ystävä). Käytetään joskus leikkisästi myös ihmisestä, jonka kanssa puhujalla ei ole läheistä suhdetta.",
+"length": 6
+},
+{
+"word": "bet",
+"definition": "Kyllä; okei; 'sovittu'.",
+"length": 3
+},
+{
+"word": "big yikes",
+"definition": "Kuvaa jotain noloa tai cringeä, erityisesti reaktiona loukkaavaan kommenttiin.",
+"length": 9
+},
+{
+"word": "blud",
+"definition": "'Kaveri' tai 'bro'. Alkujaan jamaikalaisesta slangista; uskotaan tulevan termistä 'blood brothers'.",
+"length": 4
+},
+{
+"word": "boujee",
+"definition": "Ylellinen/aineellinen. Peräisin sanasta 'bourgeoisie'.",
+"length": 6
+},
+{
+"word": "brainrot",
+"definition": "Tila, jossa yhteys todellisuuteen heikkenee hyperstimuloinnin, jatkuvan verkossa olemisen tai merkityksettömien muotisanojen vuoksi.",
+"length": 8
+},
+{
+"word": "let him cook",
+"definition": "Ilmaisu, joka kannustaa antamaan jonkun jatkaa tekemistään häiritsemättä — viittaa siihen, että hän on oikealla tiellä tai on tekemässä jotain vaikuttavaa.",
+"length": 12
+},
+{
+"word": "bing chilling",
+"definition": "Kiinalainen sana 'jäätelö' (bīngqílín), joka tuli suosituksi John Cenan videon myötä; käytetään myös huudahduksena viitaten Cenaan tai kiinan kieleen.",
+"length": 13
+},
+{
+"word": "doomscrolling",
+"definition": "Toistuva negatiivisen tai masentavan verkkomateriaalin selaaminen, joka johtaa henkiseen uupumukseen ja toivottomuuden tunteeseen.",
+"length": 13
+},
+{
+"word": "bruh",
+"definition": "Sana, jota käytetään ilmaisemaan hämmennystä, noloutta tai pettymystä.",
+"length": 4
+},
+{
+"word": "bugging",
+"definition": "Käyttäytyä oudosti tai luulla, että joku näkee harhoja.",
+"length": 7
+},
+{
+"word": "bussin'",
+"definition": "Erittäin hyvä, loistava. Käytetään myös kuvaamaan herkullista ruokaa. Alkujaan afroamerikkalaisesta puhekielestä.",
+"length": 7
+},
+{
+"word": "cap",
+"definition": "Valehdella.",
+"length": 3
+},
+{
+"word": "caught in 4K",
+"definition": "Viittaa siihen, että joku on kiistattomasti jäänyt kiinni tekemästä jotain väärää tai syyllistä, yleensä kameratodisteella (viittaa 4K-tarkkuuteen).",
+"length": 12
+},
+{
+"word": "clapback",
+"definition": "Nopea ja naseva vastaus loukkaukseen tai kritiikkiin.",
+"length": 8
+},
+{
+"word": "cook",
+"definition": "'Cook' voi tarkoittaa tehdä jotain hyvin tai menestyä. Kun henkilö on 'cooked', hän on vaarassa — fyysisesti, henkisesti tai epäonnistumisen suhteen.",
+"length": 4
+},
+{
+"word": "crash out",
+"definition": "Tehdä holtitonta tai jälkikäteen katumuksen aiheuttavaa päätöstä vihan tai järkytyksen vallassa.",
+"length": 9
+},
+{
+"word": "crush",
+"definition": "Slangisana henkilöstä, hahmosta tai asiasta, johon tuntee ihastusta, kiintymystä tai rakkautta.",
+"length": 5
+},
+{
+"word": "dab",
+"definition": "Tanssiliike, jota käytetään voiton eleenä.",
+"length": 3
+},
+{
+"word": "dank",
+"definition": "Erinomainen, laadukas.",
+"length": 4
+},
+{
+"word": "dead/ded",
+"definition": "Niin hauskaa tai huvittavaa, että 'kuolee' (kuvainnollisesti naurusta).",
+"length": 8
+},
+{
+"word": "delusionship",
+"definition": "Suhde, jossa joku pitää kiinni epärealistisista tai liiaksi idealistisista uskomuksista. Henkilöä kutsutaan 'delulu'ksi.",
+"length": 12
+},
+{
+"word": "delulu",
+"definition": "Lyhenne sanasta 'delusional' eli harhainen; käytetään kuvaamaan henkilöä, jolla on epärealistisia tai pakkomielteisiä uskomuksia — yleinen fanikulttuureissa ja K-pop-yhteisöissä.",
+"length": 6
+},
+{
+"word": "drip",
+"definition": "Trendikäs, ylellinen muoti.",
+"length": 4
+},
+{
+"word": "era",
+"definition": "Ajanjakso, jolla on tiettyjä kiinnostuksen kohteita tai prioriteetteja.",
+"length": 3
+},
+{
+"word": "face card",
+"definition": "Viehättävät kasvot; joskus tarkoittaa kasvojen vetovoimaa, joka ei heikkene.",
+"length": 9
+},
+{
+"word": "failure management",
+"definition": "Termi, jolla tarkoitetaan sitä, että aikuinen, vanhempi tai opettaja auttaa jotakuta asiassa, jonka tämä jo osaa hyvin — käytetään pilkaten.",
+"length": 18
+},
+{
+"word": "fire",
+"definition": "Sana, jolla kuvataan jotain vaikuttavaa, hyvää tai siistiä.",
+"length": 4
+},
+{
+"word": "fit/fit check",
+"definition": "Termi, jolla tuodaan esiin asu. 'Fit' on lyhenne sanasta 'outfit'.",
+"length": 13
+},
+{
+"word": "finna",
+"definition": "Lyhenne ilmauksesta 'fixing to' — tarkoittaa 'olla tekemäisillään jotain'; juuret etelävaltioiden englannissa.",
+"length": 5
+},
+{
+"word": "flop",
+"definition": "Bopin vastakohta.",
+"length": 4
+},
+{
+"word": "gagged",
+"definition": "Tyrmistynyt, hämmästynyt tai sanaton.",
+"length": 6
+},
+{
+"word": "ghost",
+"definition": "Lopettaa yhteydenpito tai katkaista kommunikaatio jonkun kanssa ilman ennakkoa.",
+"length": 5
+},
+{
+"word": "girlboss",
+"definition": "Nainenyrittäjä, joka menestyy miesvaltaisessa liikemaailmassa; voimaantunut nainen.",
+"length": 8
+},
+{
+"word": "glaze",
+"definition": "Ylihypeätä, ylistää tai kehua jotakuta niin liioitellusti, että siitä tulee ärsyttävää tai cringeä.",
+"length": 5
+},
+{
+"word": "glizzy",
+"definition": "Hot dog -makkara; termi yleistyi 2020-luvulla, mahdollisesti peräisin slangisanasta 'glizzy' (Glock-asetta tarkoittava).",
+"length": 6
+},
+{
+"word": "glow-up",
+"definition": "Merkittävä muutos parempaan ulkonäössä, itsevarmuudessa tai tyylissä.",
+"length": 7
+},
+{
+"word": "GOAT",
+"definition": "Lyhenne 'greatest of all time' — kaikkien aikojen paras.",
+"length": 4
+},
+{
+"word": "Gucci",
+"definition": "Tarkoittaa hyvää, siistiä tai muodikkaan erinomaista — peräisin luksusmerkistä Gucci.",
+"length": 5
+},
+{
+"word": "hit different",
+"definition": "Tuntua tai olla parempi jollain erityisellä tavalla.",
+"length": 12
+},
+{
+"word": "ick",
+"definition": "Äkillinen inhon tai vastenmielisyyden tunne henkilöä kohtaan, johon aiemmin oli viehätys.",
+"length": 3
+},
+{
+"word": "IJBOL",
+"definition": "Lyhenne 'I just burst out laughing' — 'minä räjähtin naurusta'.",
+"length": 5
+},
+{
+"word": "I oop",
+"definition": "Käytetään ilmaisemaan hämmennystä, noloutta tai huvittuneisuutta.",
+"length": 5
+},
+{
+"word": "it's giving",
+"definition": "Käytetään kuvaamaan pidettyä asennetta tai vivahdetta (esim. 'it's giving boss energy' => 'antaa pomo-vibat').",
+"length": 11
+},
+{
+"word": "iykyk",
+"definition": "Lyhenne 'If you know, you know' — 'jos tiedät, tiedät' (sisäpiirivitseihin).",
+"length": 5
+},
+{
+"word": "jit",
+"definition": "Nuorempi henkilö; käytetään usein halventavasti viittaamaan kokemattomaan.",
+"length": 3
+},
+{
+"word": "L",
+"definition": "Lyhenne 'loss' — tarkoittaa tappioita, epäonnistumista tai jotain negatiivista. Vastakohta 'W' (win).",
+"length": 1
+},
+{
+"word": "lit",
+"definition": "Huikea, kiinnostava, hauska tai viihdyttävä.",
+"length": 3
+},
+{
+"word": "looksmaxxing",
+"definition": "Yritys (usein pseudotieteellinen) maksimoida fyysinen viehättävyys.",
+"length": 12
+},
+{
+"word": "lore",
+"definition": "Taustatarina.",
+"length": 4
+},
+{
+"word": "main character",
+"definition": "Henkilö, joka on tai haluaa olla oman elämänsä päähenkilö; usein viittaa ihmiseen, joka hakee huomiota.",
+"length": 13
+},
+{
+"word": "mew",
+"definition": "Pseudotieteellinen menetelmä leukalinjan 'muokkaamiseen' painamalla kieltä palatetta vasten.",
+"length": 3
+},
+{
+"word": "mid",
+"definition": "Keskinkertainen tai ei erikoinen; käytetään joskus loukkaavasti.",
+"length": 3
+},
+{
+"word": "mog",
+"definition": "Näyttää selvästi houkuttelevammalta kuin joku toinen, saaden tämän vaikuttamaan heikommalta.",
+"length": 3
+},
+{
+"word": "moot/moots",
+"definition": "Lyhenne sanoista 'mutuals' eli molemminpuoliset seuraajat.",
+"length": 10
+},
+{
+"word": "nyaa",
+"definition": "Kissan ääni (nyan), usein käytetty söpöyttä herättävissä yhteyksissä. Peräisin japanilaisesta onomatopoeiasta.",
+"length": 4
+},
+{
+"word": "no cap",
+"definition": "'Totuus'; 'en valehtele'.",
+"length": 6
+},
+{
+"word": "oof",
+"definition": "Käytetään ilmaisemaan epämukavuutta, yllättyneisyyttä, pettymyksen tunnetta tai myötätuntoa toisen kipua kohtaan.",
+"length": 3
+},
+{
+"word": "oomf",
+"definition": "Lyhenne 'One of My Followers' — yksi seuraajistani.",
+"length": 4
+},
+{
+"word": "red pill",
+"definition": "Metafora valveutumiselle karuihin tai piilotettuihin totuuksiin yhteiskunnasta—lainattu The Matrix -elokuvasta. Käytetään usein valtavirran narratiivin hylkäämisestä puhuttaessa.",
+"length": 8
+},
+{
+"word": "blue pill",
+"definition": "Edustaa valintaa pysyä mukavassa tietämättömyydessä ja jatkaa totuuden kieltämistä.",
+"length": 9
+},
+{
+"word": "black pill",
+"definition": "Kuvaa nihilististä, syvästi pessimististä maailmankuvaa, jossa muutoksen katsotaan olevan mahdotonta ja joka usein johtaa fatalismiin.",
+"length": 10
+},
+{
+"word": "opp",
+"definition": "Lyhenne sanoista 'opposition' tai 'opponents' — tarkoittaa kilpailijoita tai vihollisia.",
+"length": 3
+},
+{
+"word": "out of pocket",
+"definition": "Olla järjetön, villi tai äärimmäinen — joskus jopa liiallisuuden rajalla.",
+"length": 13
+},
+{
+"word": "owned",
+"definition": "Käytetään viittaamaan tappioon videopelissä tai vastustajan täydelliseen päihittämiseen.",
+"length": 5
+},
+{
+"word": "periodt",
+"definition": "Huudahdus, jolla korostetaan, että edellinen väite on lopullinen eikä siitä ole enempää sanottavaa; vastaava kuin 'piste'.",
+"length": 7
+},
+{
+"word": "pookie",
+"definition": "Söpö lempinimi läheiselle ystävälle tai rakkaalle. Juontaa juurensa saksankielisestä hellittelytermistä 1900-luvulta. Käytetään myös lemmikkinimenä.",
+"length": 6
+},
+{
+"word": "queen",
+"definition": "Henkilö (yleensä nainen), jota pidetään vaikuttavana tai ylistettävänä.",
+"length": 5
+},
+{
+"word": "ratio",
+"definition": "Tilanne, jossa julkaisu (esim. Twitterissä) saa enemmän vastauksia kuin jakoja ja tykkäyksiä yhteensä; voi myös tarkoittaa, että vastaus saa enemmän suosiota kuin alkuperäinen postaus.",
+"length": 5
+},
+{
+"word": "red flag",
+"definition": "Varoitusmerkki suhteessa esiintyvistä käytöksistä tai piirteistä, jotka voivat olla haitallisia tai toksisia.",
+"length": 8
+},
+{
+"word": "rizz",
+"definition": "Henkilön viehätysvoima tai flirttailutaidot — peräisin sanasta 'charisma'.",
+"length": 4
+},
+{
+"word": "Roman Empire",
+"definition": "Sattumanvarainen tapahtuma, henkilö tai asia, joka kiehtoo niin paljon, että siitä ajatellaan usein.",
+"length": 12
+},
+{
+"word": "salty",
+"definition": "Kuvaa henkilöä, joka käyttäytyy katkerasti, ärtyneesti tai loukkaantuneesti.",
+"length": 5
+},
+{
+"word": "secure the bag",
+"definition": "Tehdä töitä tavoitteiden saavuttamiseksi; usein viittaa rahan ansaitsemiseen.",
+"length": 14
+},
+{
+"word": "sheesh",
+"definition": "Käytetään kehumaan jotakuta, kun hän tekee jotain hyvää. Vokaaleja venytetään (esim. 'sheeesh').",
+"length": 6
+},
+{
+"word": "shook",
+"definition": "Olla järkyttynyt, hämmentynyt tai huolestunut.",
+"length": 5
+},
+{
+"word": "situationship",
+"definition": "Epämääräinen romanttinen suhde, jossa osapuolilla on tunteita toisiaan kohtaan, mutta suhdetta ei määritellä — välimuoto seurustelun ja ei-seurustelun välillä.",
+"length": 13
+},
+{
+"word": "sksksk",
+"definition": "Käytetään ilmaisemaan iloa/naurua; eräänlainen näppäimistön möyhötys.",
+"length": 6
+},
+{
+"word": "slaps",
+"definition": "Viittaa johonkin, joka koetaan hyväksi — erityisesti musiikista puhuttaessa.",
+"length": 5
+},
+{
+"word": "slay",
+"definition": "Tehdä jotain erinomaisesti.",
+"length": 4
+},
+{
+"word": "snatched",
+"definition": "Upea, viehättävä tai moitteettomasti stailattu. Käytetään joskus kuvaamaan kapeaa vyötäröä.",
+"length": 8
+},
+{
+"word": "stan",
+"definition": "Tukea jotain äärimmäisellä tasolla; erityisesti ylenmääräinen tai pakkomielteinen julkisuuden henkilöiden ihailu.",
+"length": 4
+},
+{
+"word": "sus",
+"definition": "Lyhenne sanoista 'suspect' tai 'suspicious' — epäilyttävä.",
+"length": 3
+},
+{
+"word": "sussy baka",
+"definition": "Yhdistelmä sanoista 'sus' ja japaninkielisestä 'baka' ('hölmö').",
+"length": 10
+},
+{
+"word": "skill issue",
+"definition": "Viittaa tilanteeseen, jossa henkilön taitamattomuus tai osaamisen puute nähdään syyksi epäonnistumiseen tai vaikeuteen tehtävän suorittamisessa.",
+"length": 11
+},
+{
+"word": "tea",
+"definition": "Salaiset tiedot tai juorut. Juontaa juurensa 1990-luvun mustasta drag-kulttuurista.",
+"length": 3
+},
+{
+"word": "touch grass",
+"definition": "Tapa sanoa jollekin 'menkää ulos', yleensä silloin kun henkilö on oletettavasti viettänyt liikaa aikaa verkossa.",
+"length": 11
+},
+{
+"word": "ts",
+"definition": "Lyhyempi tapa sanoa 'this' tai 'this shit'.",
+"length": 2
+},
+{
+"word": "tweaking",
+"definition": "Käyttäytyä oudosti tai luulla, että joku näkee harhoja.",
+"length": 8
+},
+{
+"word": "unalive",
+"definition": "Eufemismi sanoille kuten 'tappaa' tai muihin kuolemaan liittyviin termeihin, usein itsemurhan kontekstissa.",
+"length": 7
+},
+{
+"word": "understood the assignment",
+"definition": "Ymmärtää tehtävän tarkoitus; tehdä jotain hyvin.",
+"length": 26
+},
+{
+"word": "uwu",
+"definition": "Käytetään ilmaisemaan onnellisuutta tai halua näyttää söpöltä; käytännössä emoticon/ilmaisu.",
+"length": 3
+},
+{
+"word": "valid",
+"definition": "Sosiaalisesti hyväksyttävä. Nousi suosioon Tumblrin (ja myöhemmin TikTokin) keskusteluissa.",
+"length": 5
+},
+{
+"word": "vibe check",
+"definition": "Tarkistaa jonkun persoonallisuus tai asenne.",
+"length": 10
+},
+{
+"word": "W",
+"definition": "Lyhenne 'win' — tarkoittaa menestystä, voittoa tai jotain positiivista. Vastakohta 'L'.",
+"length": 1
+},
+{
+"word": "wig",
+"definition": "Tehdä jotain niin hyvin, että 'peruukki lentää' — kuvaannollinen ilmaus; eri asia kuin 'wig out'.",
+"length": 3
+},
+{
+"word": "who is this diva?",
+"definition": "Kiitollinen retorinen kysymys, jolla kehutaan ihmisiä, jotka ilmentävät diva-tyyppisiä ominaisuuksia kuten rohkeutta, tyyliä ja itsevarmuutta.",
+"length": 16
+},
+{
+"word": "yap",
+"definition": "Puhua liikaa, erityisesti ilman merkityksellistä sisältöä.",
+"length": 3
+},
+{
+"word": "yeet",
+"definition": "Heittää jotain voimalla huolimattomasti; käytetään myös yleisenä innostuksen huudahduksena.",
+"length": 4
+},
+{
+"word": "skibidi",
+"definition": "Viittaus viraalimusiikkiin 'Skibidi Dop Dop Yes Yes' (Little Big) ja siihen liittyviin hassuihin tanssiliikkeisiin.",
+"length": 7
+},
+{
+"word": "cheugy",
+"definition": "Kuvaa jotain vanhentunutta tai liian yritysmäisesti trendikästä — usein kohdistetaan milleniaalien estetiikkaan.",
+"length": 6
+},
+{
+"word": "only in ohio",
+"definition": "Meemi, joka vihjaa, että outoja tai kummallisia tapahtumia tapahtuisi vain Ohiossa.",
+"length": 12
+},
+{
+"word": "duke dennis",
+"definition": "Suosittu YouTube- ja Twitch-sisällöntuottaja, tunnettu pelaamisestaan — erityisesti NBA 2K -sisällöstä.",
+"length": 11
+},
+{
+"word": "did you pray today",
+"definition": "Meemilause, joka tuli suosituksi; käytetään usein humoristisesti kysyessä toisen vointia tai käytöstä.",
+"length": 17
+},
+{
+"word": "livvy dunne",
+"definition": "Tunnettu voimistelija ja some-vaikuttaja, tunnettu TikTok- ja Instagram-läsnäolostaan.",
+"length": 11
+},
+{
+"word": "rizzing up",
+"definition": "Toimenpide, jossa käytetään viehätysvoimaa tai karismaa vetääkseen romanttista kiinnostusta.",
+"length": 9
+},
+{
+"word": "baby gronk",
+"definition": "Viittaa nuoreen jalkapallolupaukseen; käytetään myös kuvaannollisesti henkilöstä, jolla on suuri potentiaali.",
+"length": 10
+},
+{
+"word": "sussy imposter",
+"definition": "Fraasi pelistä Among Us, viittaa epäilyttävään pelaajaan, joka saattaa olla huijari.",
+"length": 14
+},
+{
+"word": "pibby glitch",
+"definition": "Viittaus animaatiosarjaan 'Come and Learn with Pibby!', jossa hahmot kärsivät glitchejä muistuttavasta korruptiosta.",
+"length": 12
+},
+{
+"word": "in real life",
+"definition": "Usein lyhennettynä IRL — viittaa tosielämässä tapahtuvaan, ei verkossa.",
+"length": 11
+},
+{
+"word": "sigma male",
+"definition": "Termi 'manosphere'-yhteisöistä — yksinäinen 'lone wolf' -tyyppi, joka on menestynyt mutta ei noudata perinteisiä sosiaalisia hierarkioita.",
+"length": 10
+},
+{
+"word": "beta male",
+"definition": "Termi miesstä, jota pidetään passiivisena, yhteistyökykyisenä ja vähemmän dominoivana; usein liitetään herkkyys ja luotettavuus.",
+"length": 9
+},
+{
+"word": "alpha male",
+"definition": "Termi dominoivasta, määrätietoisesta miehestä, joka nähdään johtajana tai auktoriteettina.",
+"length": 10
+},
+{
+"word": "omega male",
+"definition": "Termi miehestä, joka on sosiaalisen hierarkian reunalla; usein alpha-miehen vastakohta.",
+"length": 10
+},
+{
+"word": "grindset",
+"definition": "Ajattelutapa, joka korostaa armotonta työntekoa ja 'hustlausta' menestyksen saavuttamiseksi.",
+"length": 8
+},
+{
+"word": "andrew tate",
+"definition": "Kiistanalainen internet-persoonallisuus, tunnettu näkemyksistään maskuliinisuudesta ja menestyksestä; usein kritisoitu toksisen käytöksen edistämisestä.",
+"length": 11
+},
+{
+"word": "freddy fazbear",
+"definition": "Pääanimatroninen hahmo kauhupelisarjasta Five Nights at Freddy's.",
+"length": 14
+},
+{
+"word": "colleen ballinger",
+"definition": "YouTube-tähti ja koomikko, tunnettu hahmostaan Miranda Sings.",
+"length": 17
+},
+{
+"word": "smurf cat",
+"definition": "Lempeä, fiktiivinen hahmo, joka yhdistää Smurffin ja kissan piirteitä — käytetään usein meemeissä.",
+"length": 9
+},
+{
+"word": "strawberry elephant",
+"definition": "Hassu fiktiivinen hahmo/meemi, joka yhdistää mansikan ja norsun.",
+"length": 19
+},
+{
+"word": "blud",
+"definition": "Slangisana 'blood' — brittiläisessä slangissa usein tarkoittaa kaveria tai läheistä tuttavaa.",
+"length": 4
+},
+{
+"word": "dawg",
+"definition": "Slangisana 'dog' — usein viittaa ystävään tai kaveriin.",
+"length": 4
+},
+{
+"word": "shmlawg",
+"definition": "Muunnelma sanasta 'dawg', käytetään samankaltaisesti ystävästä tai läheisestä tuttavasta.",
+"length": 7
+},
+{
+"word": "ishowspeed",
+"definition": "Suosittu YouTube- ja striimaaja, tunnettu energisestä ja toisinaan kiistanalaisesta sisällöstään.",
+"length": 10
+},
+{
+"word": "a whole bunch of turbulence",
+"definition": "Meemilause, joka viittaa odottamattomiin häiriöihin tai kaaokseen.",
+"length": 27
+},
+{
+"word": "ambatukam",
+"definition": "Viraalimeemilause, joka leikkii äänteellisesti harhaanjohtavalla kielellä; käytetään usein humoristisesti.",
+"length": 9
+},
+{
+"word": "bro really thinks he's carti",
+"definition": "Lause, jota käytetään pilkkaamaan henkilöä, joka pyrkii matkima rapperi Playboi Cartin tyyliä tai persoonaa.",
+"length": 28
+},
+{
+"word": "literally hitting the griddy",
+"definition": "Viittaa Griddy-tanssin esittämiseen, joka tuli suosituksi NFL:ssä ja somessa.",
+"length": 27
+},
+{
+"word": "the ocky way",
+"definition": "TikTok-käsite, joka tarkoittaa ruokatilausten räätälöimistä omaperäisellä tai pramealla tavalla — termi sai alkunsa New Yorkin lähikaupan työntekijältä.",
+"length": 12
+},
+{
+"word": "kai cenat",
+"definition": "Tunnettu YouTube- ja Twitch-striimaaja, tunnettu energisestä persoonastaan ja humoristisesta sisällöstään.",
+"length": 9
+},
+{
+"word": "fanum tax",
+"definition": "Leikkisä viittaus Kai Cenat -yhteisössä, jossa striimaaja ärsyttää muita ottamalla osan heidän ruoastaan.",
+"length": 9
+},
+{
+"word": "garten of banban",
+"definition": "Viittaus indie-kauhupeliin, joka nousi suosioon omaperäisen ja kammottavan suunnittelunsa vuoksi.",
+"length": 16
+},
+{
+"word": "not the mosquito again",
+"definition": "Meemilause, joka ilmaisee turhautumista tai epäuskoa uudelleen toistuvaa haittaa kohtaan.",
+"length": 22
+},
+{
+"word": "bussing",
+"definition": "Slangia, joka tarkoittaa, että jokin on todella hyvää tai herkullista — usein ruokaa kuvattaessa.",
+"length": 7
+},
+{
+"word": "whopper whopper whopper whopper",
+"definition": "Tarttuva jingle Burger Kingin mainoksesta, joka muuttui meemiksi.",
+"length": 32
+},
+{
+"word": "1 2 buckle my shoe",
+"definition": "Lastenloru, joka muuttui meemi-ilmiöksi; käytetään usein humoristisissa yhteyksissä.",
+"length": 19
+},
+{
+"word": "goofy ahh",
+"definition": "Ilmaisu, jolla kuvataan jotain tai jotakuta typeräksi tai naurettavaksi.",
+"length": 9
+},
+{
+"word": "aiden ross",
+"definition": "Suosittu Twitch-striimaaja, tunnettu pelaamisestaan ja reaktiovideoistaan; usein osallisena kiistoissa.",
+"length": 10
+},
+{
+"word": "sin city",
+"definition": "Usein viittaa Las Vegasiin tai sitä ympäröivään estetiiikkaan ja elämäntapaan; käytetään myös meemeissä.",
+"length": 8
+},
+{
+"word": "monday left me broken",
+"definition": "Lause TikTok-trendistä tai laulun sanoista, joka ilmaisee maanantain aiheuttamaa alakuloa.",
+"length": 21
+},
+{
+"word": "goated with the sauce",
+"definition": "Slangia henkilölle, joka on poikkeuksellisen taitava tai vaikuttava; 'goat' = 'greatest of all time'.",
+"length": 22
+},
+{
+"word": "john pork",
+"definition": "Fiktiivinen hahmo, jota usein kuvataan sika-ihmisen hybridinä; käytetty eri meemeissä.",
+"length": 9
+},
+{
+"word": "grimace shake",
+"definition": "Viittaa McDonald'sin kampanjan 'Grimace Shake' -nimiseen pätkäjuomaan; usein meemeissä.",
+"length": 13
+},
+{
+"word": "kiki do you love me",
+"definition": "Säe Drake -kappaleesta 'In My Feelings', joka oli osa viraalista tanssihaastetta.",
+"length": 19
+},
+{
+"word": "womp womp",
+"definition": "Käytetään ilmaisemaan leikillistä pettymyksen tunnetta, usein humoristisesti.",
+"length": 11
+},
+{
+"word": "hawk tuah",
+"definition": "Viraali slangifraasi, joka matkii sylkemisen ääntä; nousi suosioon TikTok-meemin kautta rohkeana ja humoristisena esityksenä.",
+"length": 9
+},
+{
+"word": "diddy party",
+"definition": "Viittaa Sean 'Diddy' Combsin ylellisiin ja eksklusiivisiin juhliin; käytetään vihjaamaan korkealuokkaista tunnelmaa tai sosiaalista kerskailua.",
+"length": 11
+},
+{
+"word": "hizru boy",
+"definition": "Viraalinen slangitermi, joka viittaa tyypillisesti tyylikkääseen tai salaperäiseen kaveriin, jolla on some-vaikutusvaltaa tai niche-vetovoimaa; alkuperä ja käyttö vaihtelevat yhteisöittäin.",
+"length": 9
+},
+{
+"word": "you thought you ate",
+"definition": "Sarkastinen vastaus henkilölle, joka luulee tehneensä todella vahvan pointin tai vitsin — tarkoittaa, ettei se oikeasti ollut niin hyvä.",
+"length": 19
+},
+{
+"word": "wifie",
+"definition": "Söpö tai hellivä slangitermi 'vaimo' tai henkilö, jota pidetään vaimo-/tyttöystävämateriaalina.",
+"length": 5
+},
+{
+"word": "cutie",
+"definition": "Hellivä termi kuvaamaan jotakuta söpöä tai viehättävää.",
+"length": 5
+},
+{
+"word": "object",
+"definition": "Käytetään meemeissä viittaamaan elottomiin tai ei-toivottuihin asioihin, usein humoristisessa ja dehumanisoivassa sävyssä.",
+"length": 6
+},
+{
+"word": "get out",
+"definition": "Reaktiolauselma, jota käytetään torjumaan jotain järkyttävää, cringeä tai odottamatonta; liittyy myös kauhuelokuvan nimeen.",
+"length": 7
+},
+{
+"word": "preorder",
+"definition": "Alunperin käytettiin varauksista ennen julkaisua; meeminä tarkoittaa nykyään puolison kohtelua liian hellästi liian aikaisin.",
+"length": 8
+},
+{
+"word": "expired",
+"definition": "Kuvaa henkilöä, joka ei ole enää ajankohtainen, viehättävä tai 'omassa huipussaan'; käytetään usein kovakouraisesti meemislangissa.",
+"length": 7
+},
+{
+"word": "chill guy",
+"definition": "Rentoa, huolettomasti suhtautuva miesarkkityyppi, joka ei sekaannu draamaan; käytetään joskus ironisesti.",
+"length": 9
+},
+{
+"word": "quandale dingle",
+"definition": "Fiktiivinen meemihahmo, jolla on vääristynyt kasvot ja humoristinen taustatarina; suosittu absurdissa meemikulttuurissa.",
+"length": 15
+},
+{
+"word": "shawties",
+"definition": "Slangia viehättävistä naisista; peräisin sanasta 'shorty'.",
+"length": 8
+},
+{
+"word": "double homicide",
+"definition": "Meemilause, jolla kuvaillaan armotonta verbaalista nöyryytystä tai kovaa loukkausta; peräisin viraalista tosi-tv-pätkästä.",
+"length": 15
+},
+{
+"word": "prime",
+"definition": "Käytetään kuvaamaan henkilöä huippuvireessä ulkonäöllisesti tai vaikutusvallaltaan; usein yhteydessä viehätysvoimaan tai menestykseen.",
+"length": 5
+},
+{
+"word": "comeback",
+"definition": "Paluu merkitykseen tai parannus tilanteeseen sen jälkeen, kun on joutunut hyljeksityksi tai 'cancelled' — käytetään usein julkkisten tai exien yhteydessä.",
+"length": 8
+},
+{
+"word": "mother",
+"definition": "Käytetään stan- ja meemikulttuurissa viittaamaan ikonisiin naisiin (esim. Beyoncé, Lady Gaga) inspiraation lähteenä.",
+"length": 6
+},
+{
+"word": "girl dinner",
+"definition": "TikTok-trendi, jossa naiset esittelevät minimalistisia, satunnaisia napostelulautasia täysinä aterioina; humoristinen ja samastuttava sisältö.",
+"length": 11
+},
+{
+"word": "hot girl walk",
+"definition": "Trendi, jossa naiset tekevät voimaannuttavia kävelyitä kuunnellen musiikkia tai vahvistavia lauseita — edistää hyvinvointia ja itsevarmuutta.",
+"length": 13
+}
 ]
